@@ -1,6 +1,5 @@
 <!DOCTYPE synthv1>
 <preset name="Acordion" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
- <comments>Hola</comments>
  <params>
   <param index="0" name="DCO1_SHAPE1">2</param>
   <param index="1" name="DCO1_WIDTH1">0.5</param>
