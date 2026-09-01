@@ -28,6 +28,7 @@ Before submitting, open your preset file in a text editor and include the metada
     * Specify technical data
     * Add usage recommendations
     * Credit the original preset (if it is a variant)
+    * Others
  </comments>
 ```
 
