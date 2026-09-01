@@ -1,7 +1,7 @@
 # SynthkV1 Factory Presets
 
 Collaborative repository of factory presets for SynthV1.
-If you want to submit your own presets, we are keen to include them as long as they meet the following requirements.
+If you want to submit your own presets, we are keen to include them, provided they meet the following requirements.
 
 ## Requirements
 
