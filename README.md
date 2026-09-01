@@ -35,11 +35,11 @@ Before submitting, open your preset file in a text editor and include the metada
 ---
 
 ## Support and Suggestions
-We do not use GitHub Issues for questions. Please submit all inquiries and suggestions to the [official SynthV1 forum](https://rncbc.org).
+We do not use GitHub Issues for questions. Please submit all inquiries and suggestions to the [official SynthV1 forum](https://www.rncbc.org/drupal/forum/17).
 
 ## Submitting Presets
-You are welcome to submit multiple presets at once. We do not accept configuration files (`synthv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official SynthV1 forum](https://rncbc.org).
+You are welcome to submit multiple presets at once. We do not accept configuration files (`synthv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official SynthV1 forum](https://www.rncbc.org/drupal/forum/17).
 
 ### Submission Methods
 * **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets.
-* **Via Forum:** Register at the [official SynthV1 forum](https://rncbc.org) and post your presets inside a compressed `.zip` file.
+* **Via Forum:** Register at the [official SynthV1 forum](https://www.rncbc.org/drupal/forum/17) and post your presets inside a compressed `.zip` file.
