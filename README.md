@@ -37,7 +37,7 @@ Before submitting, open your preset file in a text editor and include the metada
 We do not use GitHub Issues for questions. Please submit all inquiries and suggestions to the [official SynthV1 forum](https://rncbc.org).
 
 ## Submitting Presets
-We only accept individual preset submissions, not complete banks. To propose new banks, please open a discussion thread in the official forum.
+You are welcome to submit multiple presets at once. We do not accept configuration files (`synthv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official SynthV1 forum](https://rncbc.org).
 
 ### Submission Methods
 * **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets.
