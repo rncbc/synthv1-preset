@@ -12,7 +12,7 @@ Your presets must be released strictly under the **Creative Commons Zero (CC0) 1
 * **Credit:** Recognition is fundamental to us. We highly recommend including your author metadata within the file.
 
 ### 2. Immutability of Presets
-**It is strictly forbidden to update or overwrite an existing preset or sample.** 
+**It is strictly forbidden to update or overwrite an existing preset.** 
 
 * To improve or vary an existing factory preset, you must save and submit it under a **different name**.
 
