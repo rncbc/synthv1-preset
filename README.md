@@ -42,4 +42,4 @@ You are welcome to submit multiple presets at once. We do not accept configurati
 
 ### Submission Methods
 * **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets.
-* **Via Forum:** Register at the [official SynthV1 forum](https://www.rncbc.org/drupal/forum/17) and post your presets inside a compressed `.zip` file.
+* **Via Forum:** Register at the [official SynthV1 forum](https://www.rncbc.org/drupal/forum/17) and post your presets inside a compressed archive.
