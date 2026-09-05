@@ -49,7 +49,7 @@
   <param index="45" name="DCA1_ATTACK">0</param>
   <param index="46" name="DCA1_DECAY">1</param>
   <param index="47" name="DCA1_SUSTAIN">0</param>
-  <param index="48" name="DCA1_RELEASE">0.3</param>
+  <param index="48" name="DCA1_RELEASE">0.4</param>
   <param index="49" name="OUT1_WIDTH">0.1</param>
   <param index="50" name="OUT1_PANNING">0.3</param>
   <param index="51" name="OUT1_FXSEND">1</param>
@@ -108,7 +108,7 @@
   <param index="104" name="DCA2_ATTACK">0</param>
   <param index="105" name="DCA2_DECAY">0.6</param>
   <param index="106" name="DCA2_SUSTAIN">0</param>
-  <param index="107" name="DCA2_RELEASE">0.1</param>
+  <param index="107" name="DCA2_RELEASE">0.4</param>
   <param index="108" name="OUT2_WIDTH">0.32</param>
   <param index="109" name="OUT2_PANNING">-0.1</param>
   <param index="110" name="OUT2_FXSEND">1</param>
