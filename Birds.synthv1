@@ -1,5 +1,5 @@
 <!DOCTYPE synthv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Birds">
+<preset name="Birds" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <params>
   <param name="DCO1_SHAPE1" index="0">4</param>
   <param name="DCO1_WIDTH1" index="1">0.720615</param>

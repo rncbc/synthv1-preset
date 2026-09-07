@@ -1,5 +1,5 @@
 <!DOCTYPE synthv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="MellowP">
+<preset name="MellowP" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <params>
   <param index="0" name="DCO1_SHAPE1">3</param>
   <param index="1" name="DCO1_WIDTH1">0.6</param>
