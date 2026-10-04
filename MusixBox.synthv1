@@ -124,7 +124,7 @@
   <param index="120" name="CHO1_FEEDB">0.5</param>
   <param index="121" name="CHO1_RATE">0</param>
   <param index="122" name="CHO1_MOD">0.5</param>
-  <param index="123" name="FLA1_WET">0.6</param>
+  <param index="123" name="FLA1_WET">0.1</param>
   <param index="124" name="FLA1_DELAY">0.9</param>
   <param index="125" name="FLA1_FEEDB">0.2</param>
   <param index="126" name="FLA1_DAFT">0.3</param>
